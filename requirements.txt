@@ -1,0 +1,5 @@
+google-adk
+google-cloud-logging
+# python-dotenv
+# uvicorn
+# fastapi
